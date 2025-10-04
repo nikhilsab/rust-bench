@@ -1,0 +1,16 @@
+f"""
+### Task
+Your task is to read the table and answer the question based on the provided table.
+Think step-by-step and answer the question.
+
+### Table
+{table}
+
+### Question
+{question}
+
+### Response Format
+The answer should be short and simple. It can be a number, a word, or a phrase in the table, but not a full sentence.
+Your response should end with `Answer: xxx` (answer to the question).
+Answer the question step by step:
+"""

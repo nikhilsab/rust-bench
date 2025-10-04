@@ -1,0 +1,19 @@
+"""
+### Task
+Your task is to read the provided table and generate an SQLite query to answer the question.
+
+### Table
+{table}
+
+### Question
+{question}
+
+### Response Format
+Return your response as:
+SQL:```sql
+    <SQLite program>
+```
+### Output
+Generate an SQLite query to answer the question.
+SQL:```sql
+"""

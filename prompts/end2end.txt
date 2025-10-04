@@ -1,0 +1,15 @@
+"""
+### Task
+Your task is to read the provided table and answer the question.
+
+### Table
+{table}
+
+### Question
+{question}
+
+### Output
+The answer should be short and simple. It can be a number, a word, or a phrase in the table, but not a full sentence.
+Answer the question directly.
+Answer:
+"""
